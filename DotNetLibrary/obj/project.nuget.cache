@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5ZxCaJuzuCcp6xU19lVm5WE+j49ks+M5OHHTCyA2QHqRWDeD4iL2ZhuyoS6Vy7l7IwY1sH59T5XMqOeBPmLKg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\ConsoleApp12\\DotNetLibrary\\DotNetLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Decagon\\source\\repos\\ConsoleApp12\\DotnetLibrary.Data\\DotnetLibrary.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Decagon\\source\\repos\\ConsoleApp12\\DotnetLibrary.Data\\DotnetLibrary.Data.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
